@@ -105,7 +105,7 @@
 
   $ echo $PATH
 
-  [Link](https://www.youtube.com/watch?v=E1yiCT2Rdj8&list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp&index=4)
+  [Link - video instructivo](https://www.youtube.com/watch?v=E1yiCT2Rdj8&list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp&index=4)
 
 
 ##  INSTALACIÓN DE GO/GOLANG (Windows)
@@ -130,7 +130,7 @@
 
   $ echo %GOPATH%
 
-  [Link](https://www.youtube.com/watch?v=9LWX7FKqbUc&list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp&index=30)
+  [Link - video instructivo](https://www.youtube.com/watch?v=9LWX7FKqbUc&list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp&index=30)
 
 
 ## INSTALACIÓN DE GO/GOLANG (macOs)
@@ -169,7 +169,7 @@
 
   $ echo $PATH
 
-  [Link](https://www.youtube.com/watch?v=MbS1wn0B-fk)
+  [Link - video instructivo](https://www.youtube.com/watch?v=MbS1wn0B-fk)
 
 ## EDITOR DE CÓDIGO
 
@@ -184,7 +184,10 @@
   - Textmate
   - Vim
   - Emacs
-### Fuente
 
-[Apuntes de Programador](https://apuntes.de/golang/introduccion-a-golang/#gsc.tab=0)
 
+### FUENTES DE INFORMACIÓN
+
+- Página Web: [Apuntes de Programador](https://apuntes.de/golang/introduccion-a-golang/#gsc.tab=0)
+- Canal de YouTube: [Roelcode](https://www.youtube.com/c/Roelcode)
+- Canal de YouTube: [Bitfumes](https://www.youtube.com/c/Bitfumes)
